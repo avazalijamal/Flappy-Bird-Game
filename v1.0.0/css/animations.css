@@ -1,0 +1,20 @@
+@keyframes coin-rotate{
+    from{
+        transform: translate(-44px,50px) rotateY(0deg);
+    }
+    to{
+        transform: translate(-44px,50px) rotateY(360deg);
+    }
+}
+
+@keyframes flappy{
+    0%{
+        background-image: url(../img/b-1.png);
+    }
+    50%{
+        background-image: url(../img/b-2.png);
+    }
+    100%{
+        background-image: url(../img/b-3.png);
+    }
+}

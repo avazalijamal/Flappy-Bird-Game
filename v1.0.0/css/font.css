@@ -1,0 +1,16 @@
+@charset "utf8";
+
+@font-face{
+    font-family: flappybird;
+    src: url(../font/flappybirdy/FlappyBirdy.ttf);
+}
+
+@font-face{
+    font-family: flappybird-2;
+    src: url(../font/flappybirdy/FlappybirdyRegular-KaBW.ttf);
+}
+
+@font-face{
+    font-family: GAMERIA;
+    src: url(../font/GAMERIA/GAMERIA.ttf);
+}
